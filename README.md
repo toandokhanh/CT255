@@ -6,5 +6,3 @@
 ## Buổi 4: Tiền xử lý, trực quan hóa dữ liệu
 ## Buổi 5: Lựa chọn siêu tham số
 ## Buổi 6: Save/Load model và triển khai
-##### Tất cả có ở giáo trình nghiệp vụ thông minh - CT255
-
